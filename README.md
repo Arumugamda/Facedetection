@@ -1,6 +1,9 @@
 # Facedetection
 ## Face Recognition System using OpenCV & LBPH
 
+Abishek Pranav G V | Student ID: 22WU0204006 |
+abishekpranav403@gmail.com
+
 ## Project Overview
 
 This project implements a complete real-time Face Recognition System using classical computer vision techniques. It covers the full pipeline — from dataset creation to model training and live recognition — built with Python and OpenCV.
@@ -138,3 +141,5 @@ OpenCV Documentation – LBPH Face Recognition
 
 Ahonen, T., Hadid, A., & Pietikäinen, M. (2006).
 Face Description with Local Binary Patterns. IEEE TPAMI.
+
+
